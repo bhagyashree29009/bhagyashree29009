@@ -1,12 +1,12 @@
--Hi, I’m Bhagyashree Nath
+Hi, I’m Bhagyashree Nath
 
--👩‍💻 Passionate about C/C++ and Web Development
+👩‍💻 Passionate about C/C++ and Web Development
 
--💻 Skilled in the MERN Stack (MongoDB, Express, React, Node.js)
+💻 Skilled in the MERN Stack (MongoDB, Express, React, Node.js)
 
--🤝 Open to collaborating on innovative Software Development projects
+🤝 Open to collaborating on innovative Software Development projects
 
--📬 Reach me at: bhagyashreenathcse@gmail.com
+📬 Reach me at: bhagyashreenathcse@gmail.com
 
 <!---
 bhagyashree29009/bhagyashree29009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
