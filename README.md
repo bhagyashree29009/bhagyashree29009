@@ -1,7 +1,11 @@
 -Hi, I’m Bhagyashree Nath
+
 -👩‍💻 Passionate about C/C++ and Web Development
+
 -💻 Skilled in the MERN Stack (MongoDB, Express, React, Node.js)
+
 -🤝 Open to collaborating on innovative Software Development projects
+
 -📬 Reach me at: bhagyashreenathcse@gmail.com
 
 <!---
