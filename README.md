@@ -1,10 +1,16 @@
 Hi, I’m Bhagyashree Nath
 
-👩‍💻 Passionate about C/C++ and Web Development
+👩‍💻 Software Developer at Vasp Technologies | Passionate about Web Development
 
-💻 Skilled in the MERN Stack (MongoDB, Express, React, Node.js)
+🚀 Skilled in JavaScript, React, PHP (Laravel), C/C++, HTML, CSS & MySQL
 
-🤝 Open to collaborating on innovative Software Development projects
+🧩 Working on full-stack applications (React + Laravel)
+
+📚 2024 B.Tech CSE graduate | Ex-SDE Intern at RecruitNXT | Ex-IT Intern at NIELIT
+
+🌱 Currently looking for more opportunities to learn, grow & contribute
+
+🤝 Open to collaborating on impactful and innovative development projects
 
 📬 Reach me at: bhagyashreenathcse@gmail.com
 
